@@ -11,7 +11,7 @@
 	<groupId>com.alfazid</groupId>
 	<artifactId>guestbooks</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tes1</name>
+	<name>guestbooks</name>
 	<description>Guest Books</description>
 
 	<properties>
