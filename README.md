@@ -1,4 +1,4 @@
-Project Test1
+Project
 
 TOOLS
 - maven 3.5.4
